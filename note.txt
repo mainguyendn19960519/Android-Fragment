@@ -1,0 +1,3 @@
+AndroidFragmentBasicExample1: 
+	Create fragment 1, fragment 2
+               Switch fragment in same activity
