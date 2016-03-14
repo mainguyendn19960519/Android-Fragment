@@ -1,3 +1,8 @@
 AndroidFragmentBasicExample1: 
 	Create fragment 1, fragment 2
                Switch fragment in same activity
+AndroidFragmentBasicExample2:
+               Flexible layout with Fragment 
+               Vertical: Only contain Fragment1 (listview) 
+               Horizotal: Contains both Fragment1 and Fragment2
+               Communicate beetween Fragment1 and Fragment2 using Interface Callback
